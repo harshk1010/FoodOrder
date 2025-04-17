@@ -1,4 +1,4 @@
-  Food Ordering Online 
+  Food Ordering Online [hk-food-psi.vercel.app](https://hk-food-psi.vercel.app/)
 
 A web-based application for ordering food online, offering a seamless experience for users to browse menus, add items to their cart, and place orders. 
 This project implements a full-stack architecture with a robust backend and interactive frontend.
