@@ -1,4 +1,3 @@
-<<<<<<< HEAD
   Food Ordering Online 
 
 A web-based application for ordering food online, offering a seamless experience for users to browse menus, add items to their cart, and place orders. 
@@ -22,6 +21,3 @@ Backend
 Tools
   Maven: For managing dependencies
   Postman: For API testing
-=======
-# FoodOrder
->>>>>>> 9e4ed31e6a742316e04db58e1fffad7afcbf42f3
